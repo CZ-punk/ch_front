@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 배경 원 -->
+  <circle cx="60" cy="60" r="55" fill="#F0F8FF" stroke="#E6F3FF" stroke-width="2"/>
+  
+  <!-- 몸통 -->
+  <ellipse cx="60" cy="75" rx="25" ry="30" fill="#FFE6F2"/>
+  
+  <!-- 얼굴 -->
+  <circle cx="60" cy="55" r="22" fill="#FFF5E6"/>
+  
+  <!-- 귀 -->
+  <ellipse cx="45" cy="40" rx="6" ry="8" fill="#FFE6F2"/>
+  <ellipse cx="75" cy="40" rx="6" ry="8" fill="#FFE6F2"/>
+  
+  <!-- 눈 -->
+  <circle cx="52" cy="52" r="3" fill="#4A90E2"/>
+  <circle cx="68" cy="52" r="3" fill="#4A90E2"/>
+  <circle cx="53" cy="51" r="1" fill="white"/>
+  <circle cx="69" cy="51" r="1" fill="white"/>
+  
+  <!-- 코 -->
+  <ellipse cx="60" cy="58" rx="1.5" ry="2" fill="#FFB6C1"/>
+  
+  <!-- 입 -->
+  <path d="M56 62 Q60 66 64 62" stroke="#FFB6C1" stroke-width="2" fill="none"/>
+  
+  <!-- 볼 -->
+  <circle cx="48" cy="60" r="3" fill="#FFE4E1" opacity="0.8"/>
+  <circle cx="72" cy="60" r="3" fill="#FFE4E1" opacity="0.8"/>
+  
+  <!-- 안경 -->
+  <circle cx="52" cy="52" r="5" stroke="#87CEEB" stroke-width="2" fill="none"/>
+  <circle cx="68" cy="52" r="5" stroke="#87CEEB" stroke-width="2" fill="none"/>
+  <rect x="57" y="51" width="6" height="2" fill="#87CEEB"/>
+  
+  <!-- 책 -->
+  <rect x="35" y="85" width="50" height="20" rx="3" fill="#E6F3FF" stroke="#4A90E2" stroke-width="2"/>
+  <rect x="40" y="90" width="40" height="10" rx="2" fill="white" stroke="#4A90E2" stroke-width="1"/>
+  <line x1="45" y1="95" x2="75" y2="95" stroke="#4A90E2" stroke-width="1"/>
+  <line x1="45" y1="98" x2="70" y2="98" stroke="#4A90E2" stroke-width="1"/>
+  
+  <!-- 손 -->
+  <circle cx="35" cy="95" r="4" fill="#FFF5E6"/>
+  <circle cx="85" cy="95" r="4" fill="#FFF5E6"/>
+  
+  <!-- 머리 위 아이디어 전구 -->
+  <circle cx="60" cy="25" r="8" fill="#FFFACD" stroke="#FFD700" stroke-width="2"/>
+  <rect x="56" y="33" width="8" height="6" rx="2" fill="#FFD700"/>
+  <path d="M60 17 L60 12" stroke="#FFD700" stroke-width="2"/>
+  <path d="M52 22 L48 18" stroke="#FFD700" stroke-width="2"/>
+  <path d="M68 22 L72 18" stroke="#FFD700" stroke-width="2"/>
+  
+  <!-- 작은 별들 (지식의 빛) -->
+  <path d="M25 30 L27 32 L29 30 L27 28 Z" fill="#FFD700"/>
+  <path d="M95 35 L97 37 L99 35 L97 33 Z" fill="#FFD700"/>
+  <path d="M20 70 L22 72 L24 70 L22 68 Z" fill="#FFD700"/>
+  <path d="M100 75 L102 77 L104 75 L102 73 Z" fill="#FFD700"/>
+  
+  <!-- 작은 하트 (사랑스러운 느낌) -->
+  <path d="M15 45 Q15 40 20 40 Q25 40 25 45 Q25 50 20 50 Q15 50 15 45" fill="#FFB6C1"/>
+  <path d="M105 50 Q105 45 110 45 Q115 45 115 50 Q115 55 110 55 Q105 55 105 50" fill="#FFB6C1"/>
+</svg> 

@@ -1,0 +1,20 @@
+{
+  "short_name": "Knowledge Curator",
+  "name": "Knowledge Curator - 개인 맞춤형 지식 큐레이터",
+  "icons": [
+    {
+      "src": "logo-mascot.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff"
+}
